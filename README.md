@@ -1,1 +1,1 @@
-This repo contains common properties to be ised across all applications.
+This repo contains common properties to be used across all applications.
